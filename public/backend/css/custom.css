@@ -1,0 +1,21 @@
+.table-custom{
+	margin-bottom:0rem;
+}
+.action_bar .fa-edit{
+	color:#f27510;
+}
+.action_bar .fa-trash{
+	color:red;
+}
+
+/*validation massage part start*/
+.mass-success,
+.mass-info,
+.mass-danger{
+	margin: 25px 25px 0;
+    padding: 20px 20px 0;
+    display: block;
+    color: black;
+    font-weight: 700;
+}
+/*validation massage part end*/
